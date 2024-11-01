@@ -1,5 +1,3 @@
-// components/Hero.tsx
-
 import styles from './Hero.module.css';
 
 const Hero = () => {
